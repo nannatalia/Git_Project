@@ -6,4 +6,6 @@ public class TestCase001 {
     //testing log in
 
     //using valid credentials
+
+    //using invalid credentials too
 }
